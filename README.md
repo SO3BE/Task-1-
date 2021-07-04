@@ -5,7 +5,7 @@ and there are two buttons to run or save the settings.
 the page is made of combination of front end web development languages (HTML, CSS, JavaScript)
 
 
-Name: Mohammed Salim Alamri 
+Name: Mohammed Salem Alamri 
 
 محمد سالم العامري 
 
